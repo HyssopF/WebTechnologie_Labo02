@@ -1,0 +1,11 @@
+{"ts":"2026-09-25T08:36:21.165Z","session":"20260925-083621","kind":"server_start","data":{"port":5500,"host":"0.0.0.0","root":"c:\\Faruk\\Web-Technologie\\WebTechnologie_Labo02","https":false,"live_reload":true}}
+{"ts":"2026-09-25T08:36:21.671Z","session":"20260925-083621","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":10}}
+{"ts":"2026-09-25T08:36:21.731Z","session":"20260925-083621","kind":"http_request","data":{"method":"GET","path":"/favicon.ico","status":404,"duration_ms":0}}
+{"ts":"2026-09-25T08:36:21.733Z","session":"20260925-083621","kind":"ws_connect","data":{"client_id":"c0","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,730]}}
+{"ts":"2026-09-25T08:36:24.417Z","session":"20260925-083621","kind":"ws_disconnect","data":{"client_id":"c0"}}
+{"ts":"2026-09-25T08:36:45.640Z","session":"20260925-083621","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:36:52.755Z","session":"20260925-083621","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:36:55.065Z","session":"20260925-083621","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:37:02.569Z","session":"20260925-083621","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:37:06.568Z","session":"20260925-083621","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:37:08.271Z","session":"20260925-083621","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
